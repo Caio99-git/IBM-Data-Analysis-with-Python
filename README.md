@@ -42,9 +42,21 @@ This project is part of the IBM Data Analyst Professional Certificate on Courser
 
 ---
 
-## 🚀 How to Run the Code
+## 🚀 How to Run the Code cloning it
+#### ⚠ Important: Before proceeding, please ensure that Git is installed on your system
+- If you don’t have it, please install it first: https://git-scm.com/downloads  
+- If you already have it, just follow the steps below:
+  
+1. **Open your terminal and type or paste the path where you want to save the repository:**
+    ```bash
+   # Example on Linux/macOS
+   cd ~/Documents/Projects/
 
-1. **Clone the repository**  
+   # Example on Windows (PowerShell)
+   cd C:\Users\YourName\Documents\Projects\
+   
+2. **Run the following line to clone the file:**
    ```bash
    git clone https://github.com/caio99-git/IBM-Data-Analysis-with-Python.git
-   cd IBM-Data-Analysis-with-Python
+
+3. **Open the chosen Notebook and upload the downloaded file from the selected folder.**
